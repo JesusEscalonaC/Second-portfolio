@@ -68,7 +68,7 @@ export const Projects = () =>{
                         </Nav.Item>
                         <Nav.Item>
                           <Nav.Link eventKey="third" >
-                            third
+                            Tab 3
                           </Nav.Link>
                         </Nav.Item>
                         </Nav>
